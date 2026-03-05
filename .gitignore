@@ -39,3 +39,8 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# ignored by me
+.github/
+Figma_Screen_Designs/
+*cwd*
